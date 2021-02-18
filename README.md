@@ -10,7 +10,7 @@ Welcome to the StratumFive Coding Challenge. Please take ten minutes to carefull
 * We are not asking for a clever, over engineered or obfuscated solution. Please be as pragmatic as possible.
 * User interface design is not the focus of the problem although we will not mark you down for creating a UI.
 * We should be able to run your code without any crazy steps
-* Make use of the sample data
+* Make use of the sample data, it is correct
 * Make sure your final solution is on master
 * **Let us know when you complete the challenge**
 
