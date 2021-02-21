@@ -2,10 +2,10 @@
 {
     public enum Orientation
     {
-        NORTH,
-        EAST,
-        SOUTH,
-        WEST
+        NORTH = 'N',
+        EAST = 'E',
+        SOUTH = 'S',
+        WEST = 'W'
 
     }
 }

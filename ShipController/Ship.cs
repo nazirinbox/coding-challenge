@@ -119,5 +119,11 @@ namespace ShipController
                     return;
             }
         }
+
+        public override string ToString()
+        {
+            var status = LocationStatus == LocationStatus.LOST ? LocationStatus.ToString() : string.Empty;
+            return $"{Coordinates.ToString()} {(char)Orientation} {status}";
+        }
     }
 }

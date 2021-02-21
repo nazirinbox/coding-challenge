@@ -7,3 +7,6 @@
 /ShipController/obj
 /Tests/bin/Debug/netcoreapp3.1
 /Tests/obj
+/ShipController/bin/Debug/netcoreapp3.1
+/Tests/.vs/ShipControllerTest/DesignTimeBuild
+/Tests/.vs/ShipControllerTest/v16
